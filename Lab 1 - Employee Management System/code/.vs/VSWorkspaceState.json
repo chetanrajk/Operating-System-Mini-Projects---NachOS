@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\lib",
     "\\threads"
   ],
-  "SelectedNode": "\\threads\\threadtest.cc",
+  "SelectedNode": "\\lib\\list.cc",
   "PreviewInSolutionExplorer": false
 }
